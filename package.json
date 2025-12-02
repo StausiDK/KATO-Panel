@@ -8,7 +8,7 @@
     "dev": "kottster dev",
     "dev:add-data-source": "kottster add-data-source",
     "build": "vite build && kottster build:server",
-    "start": "node dist/server/server.cjs"
+    "start": "node dist/server/server.cjs",
     "homepage": "/app/index.html"
 
   },
